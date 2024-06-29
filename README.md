@@ -2,7 +2,7 @@
 
 백준 알고리즘 문제 풀이
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=clwm0217)](https://solved.ac/clwm0217)
 
 마지막으로 업데이트: 2024-06-29 09:51:44 (KST)
 
