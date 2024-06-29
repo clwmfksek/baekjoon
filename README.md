@@ -8,7 +8,7 @@
 
 | 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|:---:|
-| [1000](https://www.acmicpc.net/problem/1000) | A+B | Bronze V | 
+| [1000](https://www.acmicpc.net/problem/1000) | A+B | Bronze V |
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | Silver III |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | Bronze V |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | Silver I |
