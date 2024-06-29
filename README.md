@@ -6,7 +6,7 @@
 
 마지막 수정 일자 : 2024-06-29 18:36:13
 
-| 문제 번호 | 제목 | 티어 | 해결 링크 |
+| 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|:---:|
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | Bronze V | 
 | [31575](https://www.acmicpc.net/problem/31575) | 도시와 비트코인 | Silver III |
