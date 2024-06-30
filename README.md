@@ -16,7 +16,6 @@
 | [1021](https://www.acmicpc.net/problem/1021) | 회전하는 큐 | Silver III |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 | Silver IV |
 | [1032](https://www.acmicpc.net/problem/1032) | 명령 프롬프트 | Bronze I
- |
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | Bronze I |
 | [1065](https://www.acmicpc.net/problem/1065) | 한수 | Silver IV |
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | Bronze III |
