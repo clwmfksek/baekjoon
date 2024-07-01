@@ -11,8 +11,6 @@ import time
 
 # URL 입력 받기
 url = pg.prompt("Link in bio")
-id = 'clwm0217'
-pw = 'clwmclwm1@3'
 # Chrome 드라이버 설정
 chrome_driver_path = r'C:\Users\pork8\Documents\dds\files\chromedriver\chromedriver-win64\chromedriver.exe'
 chrome_options = Options()
@@ -52,7 +50,7 @@ try:
         problem_name_element = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="problem_title"]')))
         namelist.append(problem_name_element.text.strip())
 
-        tierlist.append(driver.find_element(By.XPATH,"/html/body/div[2]/div[2]/div[3]/div[3]/div/blockquote/span").text())
+        tierlist.append(driver.find_element(By.XPATH,"/html/body/div[2]/div[2]/div[3]/div[4]/div/blockquote/img").text())
 
         # 문제 링크 및 번호 가져오기
         linked = driver.current_url

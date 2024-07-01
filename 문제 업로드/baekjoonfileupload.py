@@ -14,7 +14,7 @@ tier = pg.prompt("Tier in bio")
 # Chrome 드라이버 설정
 chrome_driver_path = r'C:\Users\pork8\Documents\dds\files\chromedriver\chromedriver-win64\chromedriver.exe'
 chrome_options = Options()
-#chrome_options.add_argument('--headless')  # 브라우저를 화면에 표시하지 않고 실행
+#aschrome_options.add_argument('--headless')  # 브라우저를 화면에 표시하지 않고 실행
 service = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 

@@ -4,7 +4,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=clwm0217)](https://solved.ac/clwm0217)
 
-마지막 수정 일자 : 2024-06-30 21:58:17
+마지막 수정 일자 : 2024-07-01 16:44:19
 
 | 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|
@@ -23,4 +23,6 @@
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze I |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | Silver I | 
 | [2720](https://www.acmicpc.net/problem/2720) | 세탁소 사장 동혁 | Bronze III | 
+| [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | Silver V |
+| [16953](https://www.acmicpc.net/problem/16953) | A → B | Silver II |
 | [31575](https://www.acmicpc.net/problem/31575) | 도시와 비트코인 | Silver III | 
