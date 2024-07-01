@@ -4,7 +4,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=clwm0217)](https://solved.ac/clwm0217)
 
-마지막 수정 일자 : 2024-07-01 16:44:19
+마지막 수정 일자 : 2024-07-02 02:08:33
 
 | 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|
@@ -23,6 +23,12 @@
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze I |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | Silver I | 
 | [2720](https://www.acmicpc.net/problem/2720) | 세탁소 사장 동혁 | Bronze III | 
+| [10026](https://www.acmicpc.net/problem/10026) | 적록색약 | Gold V |
+| [10171](https://www.acmicpc.net/problem/10171) | 고양이 | Bronze V |
+| [10172](https://www.acmicpc.net/problem/10172) | 개 | Bronze V |
+| [10250](https://www.acmicpc.net/problem/10250) | ACM 호텔 | Bronze III |
+| [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | Bronze II |
+| [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | Bronze V |
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | Silver V |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | Silver II |
 | [31575](https://www.acmicpc.net/problem/31575) | 도시와 비트코인 | Silver III | 

@@ -9,8 +9,8 @@ import pyautogui as pg
 import os
 
 # URL 입력 받기
-url = pg.prompt("Link in bio")
-tier = pg.prompt("Tier in bio")
+url,tier,tier2 = pg.prompt("Link in bio").split()
+tier = tier + " " + tier2
 # Chrome 드라이버 설정
 chrome_driver_path = r'C:\Users\pork8\Documents\dds\files\chromedriver\chromedriver-win64\chromedriver.exe'
 chrome_options = Options()
