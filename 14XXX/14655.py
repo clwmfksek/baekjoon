@@ -3,22 +3,22 @@ from collections import deque
 input = sys.stdin.readline
 sys.setrecursionlimit(10**6)
 
-target,destination = map(int,input().split())
-visited = [0] * (destination+1)
-def bfs(num):
-    count = 0
-    queue = deque([num])
-    visited[num] = 1
-    while(queue):
-        number = queue.popleft()
-        if number == destination: return visited[number]
-        num1 = int(str(number) + '1')
-        num2 = number*2
-        for i in [num1,num2]:
-            if i > destination : continue
-            if visited[i] != 0 : continue
-            visited[i] = visited[number] + 1
-            queue.append(i)
-    return -1
+n = int(input())
+round1 = list(map(int,input().split()))
+round2 = list(map(int,input().split()))
 
-print(bfs(target))
+round1Result = 0
+round2Result = 0
+
+for i in round1:
+    round1Result += abs(i)
+
+for i in round2:
+    case1 = round2Result + i
+    case2 = round2Result + (0 - i)
+    if case2 < case1 :
+        round2Result = case2
+    elif case1 <= case2 :
+        round2Result = case1
+
+print(round1Result-round2Result)

@@ -4,6 +4,7 @@ input = sys.stdin.readline
 sys.setrecursionlimit(10**6)
 
 target,destination = map(int,input().split())
+
 def bfs(num):
     queue = deque([[num,1]])
     while(queue):
