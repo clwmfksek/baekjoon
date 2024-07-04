@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
 import pyautogui as pg
 import os
+import time
 
 urllist = []
 tierlist = []
@@ -26,32 +27,35 @@ chrome_options = Options()
 service = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-for ind, detail in enumerate(txtlines):
-    url = detail.split()[0]
-    tier = detail.split()[1] + " " + detail.split()[2]
-    try:
-        # 페이지 열기
-        driver.get(url)
-        
-        # 명시적 대기를 통해 요소가 나타날 때까지 기다리기 (최대 10초)
-        wait = WebDriverWait(driver, 10)
+try:
+    for ind, detail in enumerate(txtlines):
+        url = detail.split()[0]
+        tier = detail.split()[1] + " " + detail.split()[2]
+        try:
+            # 페이지 열기
+            driver.get(url)
+            
+            # 명시적 대기를 통해 요소가 나타날 때까지 기다리기 (최대 10초)
+            wait = WebDriverWait(driver, 10)
 
-        # 문제 이름 가져오기
-        problem_name_element = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="problem_title"]')))
-        namelist.append(problem_name_element.text.strip())
+            # 문제 이름 가져오기
+            problem_name_element = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="problem_title"]')))
+            namelist.append(problem_name_element.text.strip())
 
-        # 문제 링크 및 번호 가져오기
-        problem_link = driver.current_url
-        linklist.append(problem_link)
-        numlist.append(int(problem_link.split('/')[-1]))  # URL에서 문제 번호 추출
+            # 문제 링크 및 번호 가져오기
+            problem_link = driver.current_url
+            linklist.append(problem_link)
+            numlist.append(int(problem_link.split('/')[-1]))  # URL에서 문제 번호 추출
 
-        urllist.append(url)
-        tierlist.append(tier)
-    finally:
-        driver.quit()
+            urllist.append(url)
+            tierlist.append(tier)
+        except Exception as e:
+            print(f"Error processing {url}: {e}")
+finally:
+    driver.quit()
+    time.sleep(3)
 
 # 파일 수정 부분
-leftnumber = 1000
 path = r'C:\Users\pork8\Documents\GitHub\baekjoon'
 
 for filename in os.listdir(path):
@@ -68,6 +72,7 @@ for filename in os.listdir(path):
         lines[6] = f"마지막 수정 일자 : {new_date}\n"
 
         # 문제 정보 업데이트
+        leftnumber = 1000  # 파일별로 초기화
         for tier, problem_number, problem_link, problem_name in zip(tierlist, numlist, linklist, namelist):
             inserted = False
             for idx, line in enumerate(lines):
