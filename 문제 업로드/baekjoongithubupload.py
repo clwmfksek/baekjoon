@@ -16,7 +16,7 @@ linklist = []
 numlist = []
 
 # URL 입력 받기
-txtpath = r"C:\Users\pork8\Desktop\test.txt"
+txtpath = r"C:\Users\pork8\Documents\dds\test.txt"
 with open(txtpath, 'r', encoding='utf-8') as fi:
     txtlines = fi.readlines()
 

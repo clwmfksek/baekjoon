@@ -4,7 +4,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=clwm0217)](https://solved.ac/clwm0217)
 
-마지막 수정 일자 : 2024-07-04 15:57:26
+마지막 수정 일자 : 2024-07-18 16:42:12
 
 | 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|
@@ -23,7 +23,9 @@
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze I |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | Silver I | 
 | [1673](https://www.acmicpc.net/problem/1673) | 치킨 쿠폰 | Bronze II |
+| [1697](https://www.acmicpc.net/problem/1697) | 숨바꼭질 | Silver I |
 | [2581](https://www.acmicpc.net/problem/2581) | 소수 | Bronze II |
+| [2688](https://www.acmicpc.net/problem/2688) | 줄어들지 않아 | Silver I |
 | [2720](https://www.acmicpc.net/problem/2720) | 세탁소 사장 동혁 | Bronze III | 
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | Bronze II |
 | [3460](https://www.acmicpc.net/problem/3460) | 이진수 | Bronze III |
@@ -35,6 +37,8 @@
 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | Bronze II |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | Bronze V |
 | [11286](https://www.acmicpc.net/problem/11286) | 절댓값 힙 | Silver I |
+| [13549](https://www.acmicpc.net/problem/13549) | 숨바꼭질 3 | Gold V |
+| [14267](https://www.acmicpc.net/problem/14267) | 회사 문화 1 | Gold IV |
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | Silver V |
 | [15633](https://www.acmicpc.net/problem/15633) | Fan Death | Bronze III |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | Silver II |
