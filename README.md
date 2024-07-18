@@ -4,7 +4,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=clwm0217)](https://solved.ac/clwm0217)
 
-마지막 수정 일자 : 2024-07-18 16:42:12
+마지막 수정 일자 : 2024-07-18 16:45:40
 
 | 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|
@@ -22,6 +22,7 @@
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | Silver V |
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze I |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | Silver I | 
+| [1590](https://www.acmicpc.net/problem/1590) | 캠프가는 영식 | Silver IV |
 | [1673](https://www.acmicpc.net/problem/1673) | 치킨 쿠폰 | Bronze II |
 | [1697](https://www.acmicpc.net/problem/1697) | 숨바꼭질 | Silver I |
 | [2581](https://www.acmicpc.net/problem/2581) | 소수 | Bronze II |
@@ -42,6 +43,7 @@
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | Silver V |
 | [15633](https://www.acmicpc.net/problem/15633) | Fan Death | Bronze III |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | Silver II |
+| [17204](https://www.acmicpc.net/problem/17204) | 죽음의 게임 | Silver III |
 | [27323](https://www.acmicpc.net/problem/27323) | 직사각형 | Bronze V |
 | [31575](https://www.acmicpc.net/problem/31575) | 도시와 비트코인 | Silver III | 
 | [31823](https://www.acmicpc.net/problem/31823) | 악질 검거 | Bronze I |
