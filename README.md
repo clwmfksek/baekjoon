@@ -4,7 +4,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=clwm0217)](https://solved.ac/clwm0217)
 
-마지막 수정 일자 : 2024-07-18 16:45:40
+마지막 수정 일자 : 2024-07-22 03:58:05
 
 | 문제 번호 | 제목 | 티어 |
 |:---:|:---:|:---:|
@@ -21,16 +21,22 @@
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | Bronze III |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | Silver V |
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze I |
+| [1253](https://www.acmicpc.net/problem/1253) | 좋다 | Gold IV |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | Silver I | 
 | [1590](https://www.acmicpc.net/problem/1590) | 캠프가는 영식 | Silver IV |
 | [1673](https://www.acmicpc.net/problem/1673) | 치킨 쿠폰 | Bronze II |
 | [1697](https://www.acmicpc.net/problem/1697) | 숨바꼭질 | Silver I |
+| [2230](https://www.acmicpc.net/problem/2230) | 수 고르기 | Gold V |
+| [2467](https://www.acmicpc.net/problem/2467) | 용액 | Gold V |
+| [2470](https://www.acmicpc.net/problem/2470) | 두 용액 | Gold V |
 | [2581](https://www.acmicpc.net/problem/2581) | 소수 | Bronze II |
 | [2688](https://www.acmicpc.net/problem/2688) | 줄어들지 않아 | Silver I |
 | [2720](https://www.acmicpc.net/problem/2720) | 세탁소 사장 동혁 | Bronze III | 
 | [3062](https://www.acmicpc.net/problem/3062) | 수 뒤집기 | Bronze II |
 | [3460](https://www.acmicpc.net/problem/3460) | 이진수 | Bronze III |
+| [3649](https://www.acmicpc.net/problem/3649) | 로봇 프로젝트 | Gold V |
 | [5086](https://www.acmicpc.net/problem/5086) | 배수와 약수 | Bronze III |
+| [9024](https://www.acmicpc.net/problem/9024) | 두 수의 합 | Gold V |
 | [10026](https://www.acmicpc.net/problem/10026) | 적록색약 | Gold V |
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 | Bronze V |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 | Bronze V |
@@ -41,6 +47,7 @@
 | [13549](https://www.acmicpc.net/problem/13549) | 숨바꼭질 3 | Gold V |
 | [14267](https://www.acmicpc.net/problem/14267) | 회사 문화 1 | Gold IV |
 | [14655](https://www.acmicpc.net/problem/14655) | 욱제는 도박쟁이야!! | Silver V |
+| [14921](https://www.acmicpc.net/problem/14921) | 용액 합성하기 | Gold V |
 | [15633](https://www.acmicpc.net/problem/15633) | Fan Death | Bronze III |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | Silver II |
 | [17204](https://www.acmicpc.net/problem/17204) | 죽음의 게임 | Silver III |
