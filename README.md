@@ -94,11 +94,6 @@
 | [30329](https://www.acmicpc.net/problem/30329) | Kick | Bronze III |
 | [30456](https://www.acmicpc.net/problem/30456) | 바닥수 | Bronze I |
 | [30802](https://www.acmicpc.net/problem/30802) | 웰컴 키트 | Bronze III |
-| [31403](https://www.acmicpc.net/problem/31403) | A
-+
-B
-−
-C
-$A + B - C$ | Bronze IV |
+| [31403](https://www.acmicpc.net/problem/31403) | A+B−C | Bronze IV |
 | [31575](https://www.acmicpc.net/problem/31575) | 도시와 비트코인 | Silver III | 
 | [31823](https://www.acmicpc.net/problem/31823) | 악질 검거 | Bronze I |
